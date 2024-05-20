@@ -1,0 +1,14 @@
+C:\Users\BSI92882\source\repos\RiskSystem\RiskSystem\bin\Debug\net8.0\RiskSystem.exe
+C:\Users\BSI92882\source\repos\RiskSystem\RiskSystem\bin\Debug\net8.0\RiskSystem.deps.json
+C:\Users\BSI92882\source\repos\RiskSystem\RiskSystem\bin\Debug\net8.0\RiskSystem.runtimeconfig.json
+C:\Users\BSI92882\source\repos\RiskSystem\RiskSystem\bin\Debug\net8.0\RiskSystem.dll
+C:\Users\BSI92882\source\repos\RiskSystem\RiskSystem\bin\Debug\net8.0\RiskSystem.pdb
+C:\Users\BSI92882\source\repos\RiskSystem\RiskSystem\obj\Debug\net8.0\RiskSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BSI92882\source\repos\RiskSystem\RiskSystem\obj\Debug\net8.0\RiskSystem.AssemblyInfoInputs.cache
+C:\Users\BSI92882\source\repos\RiskSystem\RiskSystem\obj\Debug\net8.0\RiskSystem.AssemblyInfo.cs
+C:\Users\BSI92882\source\repos\RiskSystem\RiskSystem\obj\Debug\net8.0\RiskSystem.csproj.CoreCompileInputs.cache
+C:\Users\BSI92882\source\repos\RiskSystem\RiskSystem\obj\Debug\net8.0\RiskSystem.dll
+C:\Users\BSI92882\source\repos\RiskSystem\RiskSystem\obj\Debug\net8.0\refint\RiskSystem.dll
+C:\Users\BSI92882\source\repos\RiskSystem\RiskSystem\obj\Debug\net8.0\RiskSystem.pdb
+C:\Users\BSI92882\source\repos\RiskSystem\RiskSystem\obj\Debug\net8.0\RiskSystem.genruntimeconfig.cache
+C:\Users\BSI92882\source\repos\RiskSystem\RiskSystem\obj\Debug\net8.0\ref\RiskSystem.dll
